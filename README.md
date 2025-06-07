@@ -13,19 +13,19 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" width="20%">
+      <td align="center" width="25%">
         <span><b><center>Python</center></b></span> 
         <img height=65px src="https://img.icons8.com/color/2x/python.png"> 
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="25%">
         <span><b><center>Java</center></b></span> 
         <img height=65px src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"> 
-        </td>
-      <td align="center" width="20%">
+      </td>
+      <td align="center" width="25%">
         <span><b><center>C</center></b></span> 
         <img height=65px src="https://img.icons8.com/color/2x/c-programming.png"> 
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="25%">
         <span><b><center>Racket</center></b></span> 
         <img height=65px src="https://racket-lang.org/img/racket-logo.svg"> 
       </td>
@@ -33,47 +33,59 @@
   </tbody>
 </table>
 
-### **FrontEnd Technologies**
+### **Web Technologies**
 <table>
   <tbody>
     <tr>
-      <td align="center" width="20%">
-        <span><b><center>CSS</center></b></span> 
-        <img height=65px src="https://img.icons8.com/color/2x/css3.png"> 
-      </td>
-      <td align="center" width="20%">
-        <span><b><center>JavaScript</center></b></span> 
-        <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-      </td>
-      <td align="center" width="20%">
+      <td align="center" width="33%">
         <span><b><center>HTML</center></b></span> 
         <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
       </td>
-      <td align="center" width="20%">
-        <span><b><center>React</center></b></span>
-        <img height=65px src="https://img.icons8.com/color/2x/react-native.png">
+      <td align="center" width="33%">
+        <span><b><center>CSS</center></b></span> 
+        <img height=65px src="https://img.icons8.com/color/2x/css3.png"> 
+      </td>
+      <td align="center" width="33%">
+        <span><b><center>JavaScript</center></b></span> 
+        <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
       </td>
     </tr>
   </tbody>
 </table>
 
-### **Libraries and Frameworks**
+### **Frontend Frameworks & Libraries**
 <table>
   <tbody>
     <tr>
-      <td align="center" width="20%">
-      <span><b><center>Vue.js</center></b></span> 
+      <td align="center" width="50%">
+        <span><b><center>React</center></b></span>
+        <img height=65px src="https://img.icons8.com/color/2x/react-native.png">
+      </td>
+      <td align="center" width="50%">
+        <span><b><center>Vue.js</center></b></span> 
         <img height=65px src="https://img.icons8.com/color/2x/vue-js.png"> 
       </td>
-      <td align="center" width="20%">
-        <span><b><center>React</center></b></span> 
-        <img height=65px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-      </td>
-      <td align="center" width="20%">
+    </tr>
+  </tbody>
+</table>
+
+### **Backend & Runtime**
+<table>
+  <tbody>
+    <tr>
+      <td align="center" width="100%">
         <span><b><center>Node.js</center></b></span> 
         <img height=65px src="https://img.icons8.com/color/2x/nodejs.png"> 
       </td>
-      <td align="center" width="20%">
+    </tr>
+  </tbody>
+</table>
+
+### **DevOps & Containerization**
+<table>
+  <tbody>
+    <tr>
+      <td align="center" width="100%">
         <span><b><center>Docker</center></b></span> 
         <img height=65px src="https://img.icons8.com/color/2x/docker.png"> 
       </td>
@@ -81,11 +93,11 @@
   </tbody>
 </table>
 
-### **Cloud**
+### **Cloud Platforms**
 <table>
   <tbody>
     <tr>
-      <td align="center" width="20%">
+      <td align="center" width="100%">
         <span><b><center>Azure</center></b></span> 
         <img height=65px src="https://img.icons8.com/color/2x/azure-1.png"> 
       </td>
@@ -97,7 +109,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" width="20%">
+      <td align="center" width="100%">
         <span><b><center>PostgreSQL</center></b></span> 
         <img height=65px src="https://img.icons8.com/color/2x/postgreesql.png"> 
       </td>
