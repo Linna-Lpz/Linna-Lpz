@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/57645f9c-df1c-4b2c-a1f7-92a44a19909c)
+<img src="https://github.com/user-attachments/assets/57645f9c-df1c-4b2c-a1f7-92a44a19909c" alt="Header" width="1100px" height="350px" />
 
 # Hola! 🙌
 <!-- Profile views -->
